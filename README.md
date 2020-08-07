@@ -7,7 +7,7 @@
 使用方式:
 ----------
 
-`python3 douyin {视频分享url}`
+`python3 sprider douyin {视频分享url}`
 
 支持参数:
 ----------
